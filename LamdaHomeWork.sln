@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaHomeWork", "LamdaHomeWork\LamdaHomeWork.csproj", "{BEB443A1-B261-40A1-975B-A615D5FDAA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LamdaForm", "LamdaForm\LamdaForm.csproj", "{97DFF7F4-C6FA-4C2B-8470-F572CA953157}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEB443A1-B261-40A1-975B-A615D5FDAA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB443A1-B261-40A1-975B-A615D5FDAA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB443A1-B261-40A1-975B-A615D5FDAA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB443A1-B261-40A1-975B-A615D5FDAA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97DFF7F4-C6FA-4C2B-8470-F572CA953157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97DFF7F4-C6FA-4C2B-8470-F572CA953157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97DFF7F4-C6FA-4C2B-8470-F572CA953157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97DFF7F4-C6FA-4C2B-8470-F572CA953157}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF88D526-2230-425E-B23C-0E409FD9322A}
+	EndGlobalSection
+EndGlobal
